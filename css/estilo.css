@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: black;
+    width: auto;
+    height: auto;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 75px;
+    font-style: italic;
+}
