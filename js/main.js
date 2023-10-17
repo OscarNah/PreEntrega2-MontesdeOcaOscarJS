@@ -3,11 +3,11 @@ const productos = [
     { nombre:"camisa", precio: 449, inventario: 8},
     { nombre:"bermuda", precio: 349, inventario: 5},
     { nombre:"playera", precio: 249, inventario: 10},
-    { nombre:"sudadera", precio: 799, inventario: 35},
-    { nombre:"chamarra", precio: 999, inventario: 15},
+    { nombre:"sudadera", precio: 799, inventario: 4},
+    { nombre:"chamarra", precio: 999, inventario: 8},
     { nombre:"traje", precio: 2299, inventario: 7},
-    { nombre:"abrigo", precio: 1799, inventario: 10},
-    { nombre:"tenis", precio: 1199, inventario: 60},
+    { nombre:"abrigo", precio: 1799, inventario: 3},
+    { nombre:"tenis", precio: 1199, inventario: 8},
 ];
   // Se crea carrito de compras vacio, donde se agregaran los productos que se seleccionen.
   const carritoDeCompras = [];
